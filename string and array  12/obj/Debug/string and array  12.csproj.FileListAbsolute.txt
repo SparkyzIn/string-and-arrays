@@ -1,0 +1,8 @@
+C:\Users\salee\source\repos\string and array  12\string and array  12\obj\Debug\string and array  12.csproj.AssemblyReference.cache
+C:\Users\salee\source\repos\string and array  12\string and array  12\obj\Debug\string and array  12.csproj.SuggestedBindingRedirects.cache
+C:\Users\salee\source\repos\string and array  12\string and array  12\obj\Debug\string and array  12.csproj.CoreCompileInputs.cache
+C:\Users\salee\source\repos\string and array  12\string and array  12\bin\Debug\string and array  12.exe.config
+C:\Users\salee\source\repos\string and array  12\string and array  12\bin\Debug\string and array  12.exe
+C:\Users\salee\source\repos\string and array  12\string and array  12\bin\Debug\string and array  12.pdb
+C:\Users\salee\source\repos\string and array  12\string and array  12\obj\Debug\string and array  12.exe
+C:\Users\salee\source\repos\string and array  12\string and array  12\obj\Debug\string and array  12.pdb
